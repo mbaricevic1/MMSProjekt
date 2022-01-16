@@ -1,0 +1,68 @@
+ .u-section-1 {
+  background-image: url("images/bg.svg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 775px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Slackey;
+  font-weight: 700;
+  font-size: 5rem;
+  width: 259px;
+  margin: 248px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Open Sans", sans-serif;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 639px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 231px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}@font-face {
+  font-family: 'Slackey';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Slackey.ttf);
+}@font-face {
+  font-family: 'Slackey-1';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Slackey-1.ttf);
+}

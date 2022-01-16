@@ -1,0 +1,146 @@
+ .u-section-1 {
+  background-image: url("images/Rectangle10.svg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 992px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 223px;
+  font-family: "Open Sans", sans-serif;
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Slackey-1;
+  background-image: none;
+  width: 355px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-family: "Open Sans", sans-serif;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  height: 723px;
+  margin-top: -15px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  margin: -531px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 313px;
+  width: 367px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 400;
+  width: 243px;
+  margin: -414px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 116px;
+  min-width: 68px;
+  margin: 394px 509px 60px auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+  color: rgb(24, 119, 242) !important;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(63, 114, 155) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 818px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -512px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 176px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 166px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 448px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 627px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -583px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 470px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -465px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 296px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -334px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'Slackey-1';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Slackey-1.ttf);
+}
